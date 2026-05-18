@@ -42,3 +42,5 @@ The model was trained 15 epochs, and the training history is visualized below:
    ```bash
    pip install tensorflow matplotlib numpy
 
+## ⚠️ Academic Integrity & Disclaimer
+This repository represents an independent, educational benchmarking project driven by my academic interest in neuroimaging and computer vision. It is built strictly using a publicly accessible dataset from Kaggle for machine learning evaluation purposes. This project does not contain, utilize, or replicate any proprietary, confidential, or clinical data from any ongoing institutional trials or collaborative medical research.
